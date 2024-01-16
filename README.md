@@ -5,7 +5,7 @@
 ## 个人频道💻
 
 - **📺bilibili：**[AZ_Channel](https://space.bilibili.com/501122856)
-- **📝blog：**[Bugdesigner的博客](https://blog.bugdesigner.cn)
+- **📝blog：**[BugDesigner的博客](https://blog.bugdesigner.cn)
 - **📄docs：**[AlbertZhang的文档站](https://docs.bugdesigner.cn)
 
 ## 技术栈🛠️
