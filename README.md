@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/5af605d3-6aab-4641-a12d-b35cfb680f66.svg)](https://wakatime.com/@5af605d3-6aab-4641-a12d-b35cfb680f66)
+
 ## 基本信息👤
 
 全栈&Python爬虫&数据分析&数据挖掘
