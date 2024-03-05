@@ -1,5 +1,5 @@
 ## 基本信息👤
-[![wakatime](https://wakatime.com/badge/user/5af605d3-6aab-4641-a12d-b35cfb680f66.svg)](https://wakatime.com/@waka_7aa3549e-faff-4094-a425-5475a15b4a5f)
+[![wakatime](https://wakatime.com/badge/user/waka_7aa3549e-faff-4094-a425-5475a15b4a5f.svg)](https://wakatime.com/@waka_7aa3549e-faff-4094-a425-5475a15b4a5f)
 全栈&Python爬虫&数据分析&数据挖掘
 
 ## 个人频道💻
