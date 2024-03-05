@@ -18,6 +18,7 @@
 ## 技术栈🛠️
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&size_weight=0.5&count_weight=0.5&langs_count=4)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZCodingAccount)](https://github.com/anuraghazra/github-readme-stats)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)
 
 
