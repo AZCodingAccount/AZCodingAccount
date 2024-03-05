@@ -15,10 +15,13 @@
 - [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件 ](https://github.com/AZCodingAccount/iTime)
 - [logistics-project: 一个基于Vue3+SpringBoot的物流信息管理系统 ](https://github.com/AZCodingAccount/logistics-project)
 
-## 技术栈🛠️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&size_weight=0.5&count_weight=0.5&langs_count=4)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AZCodingAccount)](https://github.com/anuraghazra/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)
+
+## 技术栈🛠️
+<!--
+<p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
+-->
+<img height="250px"  align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&size_weight=0.5&count_weight=0.5&langs_count=4&locale=cn" />
+  <img  height="250px"  align="right" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=33" />
 
 
