@@ -1,5 +1,6 @@
 ## 基本信息👤
 [![wakatime](https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg)](https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f)
+![](https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true)
 
 全栈&Python爬虫&数据分析&数据挖掘
 
