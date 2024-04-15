@@ -1,8 +1,7 @@
 ## 基本信息👤
 [![wakatime](https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg)](https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f)
 ![](https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true)
-![](https://img.shields.io/github/watchers/AZCodingAccount/iTime?style=flat&logoColor=rgb(89%2C%2089%2C%2089)&labelColor=rgb(89%2C%2089%2C%2089)&color=rgb(89%2C%2089%2C%2089)&link=https%3A%2F%2Fgithub.com%2FAZCodingAccount
-)
+
 
 全栈&Python爬虫&数据分析&数据挖掘
 
