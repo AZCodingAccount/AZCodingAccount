@@ -1,5 +1,6 @@
 ## 基本信息👤
 [![wakatime](https://wakatime.com/badge/user/018e0793-354b-42d4-8c6d-8dba8d71ab4f.svg)](https://wakatime.com/@018e0793-354b-42d4-8c6d-8dba8d71ab4f)
+<a href="https://blog.bugdesigner.cn/" target="_blank"><img   src="https://img.shields.io/badge/Blog-博客-%230d7fbf?style=flat"/></a>
 ![](https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true)
 
 
