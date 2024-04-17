@@ -14,6 +14,7 @@
 
 - [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏 ](https://github.com/AZCodingAccount/iGomokuGame)
 - [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件 ](https://github.com/AZCodingAccount/iTime)
+- [github-readme-stats-plus: 一个基于React+Ant Design pro的可视化的Github状态卡片生成器](https://github.com/AZCodingAccount/github-readme-stats-plus)
 - [logistics-project: 一个基于Vue3+SpringBoot的物流信息管理系统 ](https://github.com/AZCodingAccount/logistics-project)
 
 
