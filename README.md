@@ -23,7 +23,7 @@
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
-<img height="280px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&locale=cn&line_height=33&theme=&langs_count=5&custom_title=常用语言"/>
-<img height="280px" align="right" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=33&show_icons=true&theme=&rank_icon=default&custom_title=Github状态卡片"/>
+<img height="300px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&locale=cn&line_height=33&theme=&langs_count=5&custom_title=常用语言"/>
+<img height="300px" align="right" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=33&show_icons=true&theme=&rank_icon=default&custom_title=Github状态卡片"/>
 
 
