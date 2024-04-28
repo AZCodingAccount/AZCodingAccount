@@ -26,7 +26,8 @@
 
 
 ## 技术栈🛠️
-<p align="center"> 
+<p align="left"> 
+      &emsp;&emsp;
       <!-- 前端 -->
       <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
@@ -41,7 +42,8 @@
 <!--
 <p align="center">[![AlbertZhang's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlbertZhang)](https://github.com/anuraghazra/github-readme-stats)</p>
 -->
-<img height="270px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&locale=cn&line_height=33&theme=&langs_count=5&custom_title=我的常用语言"/>
-<img height="270px" align="right" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=33&show_icons=true&theme=&rank_icon=default&custom_title=Github状态卡片"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api?username=AZCodingAccount&locale=cn&line_height=21&show_icons=true&theme=&rank_icon=default&custom_title=我的统计数据"/>
+<img height="160px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZCodingAccount&include_all_commits=true&locale=cn&line_height=33&theme=&langs_count=6&layout=compact&custom_title=我的常用语言"/>
+
 
 
