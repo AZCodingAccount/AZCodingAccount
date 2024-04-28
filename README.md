@@ -27,7 +27,7 @@
 
 ## 技术栈🛠️
 <p align="left"> 
-      &emsp;&emsp;
+      &emsp;&emsp;&emsp;
       <!-- 前端 -->
       <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
