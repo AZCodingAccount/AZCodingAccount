@@ -26,14 +26,11 @@
 
 
 ## 技术栈🛠️
-<div align="center"> 
+<p align="center"> 
       <!-- 前端 -->
       <a href="#"><img src="https://img.shields.io/badge/Vue.js-35495e.svg?style=flat-square&logo=vue.js&logoColor=4FC08D" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/React-20232a.svg?style=flat-square&logo=react&logoColor=61DAFB" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/TypeScript-007ACC.svg?style=flat-square&logo=typescript&logoColor=white" ></a>&emsp;
-</div>
-<p></p>
-<p align="center"> 
       <!-- 后端和数据库 -->
       <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" ></a>&emsp;
       <a href="#"><img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" ></a>&emsp;
