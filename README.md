@@ -14,7 +14,7 @@
 <a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
 </p>
 
-## 信息👤    
+## 基本信息👤    
 全栈&Python爬虫&数据分析
 
 ## 我的项目📚
