@@ -15,7 +15,7 @@
 </p>
 
 ## 基本信息👤    
-全栈&Python爬虫&数据分析
+全栈&Python爬虫&数据分析（疯狂水pr中~）
 
 ## 我的项目📚
 - [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏 ](https://github.com/AZCodingAccount/iGomokuGame)
