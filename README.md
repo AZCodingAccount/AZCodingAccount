@@ -18,7 +18,7 @@
 全栈&Python爬虫&数据分析
 
 ## 我的项目📚
-- [iSchool: 一个基于Vue3、SC、SCA2023、Elastic Search、RabbitMQ、xxl-job、python爬虫的综合性教务公告检索平台 ](https://github.com/AZCodingAccount/iSchool)
+- [iSchool: 一个基于Vue3、SC、SCA2023、Elastic Search、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台 ](https://github.com/AZCodingAccount/iSchool)
 - [iGomokuGame: 一个基于Vue3、SpringBoot3、WebSocket、DataView的在线五子棋游戏 ](https://github.com/AZCodingAccount/iGomokuGame)
 - [iTime: 一个基于electron、vue3、Arco Design、Pinia的桌面端效率软件 ](https://github.com/AZCodingAccount/iTime)
 - [github-readme-stats-plus: 一个基于React、Ant Design pro、zustand的可视化Github状态卡片生成器](https://github.com/AZCodingAccount/github-readme-stats-plus)
