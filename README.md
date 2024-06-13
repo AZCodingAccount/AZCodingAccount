@@ -15,7 +15,7 @@
 </p>
 
 ## 基本信息👤    
-全栈&Python爬虫&数据分析，交流群753963039
+全栈&Python爬虫&数据分析
 
 ## 我的项目📚
 - [iSchool: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/AZCodingAccount/iSchool)
