@@ -14,8 +14,8 @@
 <a href="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true" target="_blank"><img align="center" src="https://komarev.com/ghpvc/?username=AZCodingAccount&abbreviated=true"/></a>
 </p>
 
-## 基本信息👤    
-全栈&Python爬虫&数据分析
+## 个人信息👤    
+全栈&爬虫&数分、科幻小说爱好者（三体、基地系列......）、追追动漫（凡人修仙传、狐妖小红娘......）、王者荣耀（Maybe 算高玩了）
 
 ## 我的项目📚
 - [iSchool: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/AZCodingAccount/iSchool)
