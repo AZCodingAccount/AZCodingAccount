@@ -15,7 +15,7 @@
 </p>
 
 ## 个人信息👤    
-全栈&爬虫&数分、小说（大秦帝国、三体、基地系列......）、追追动漫（凡人修仙传、狐妖小红娘......）、运动（跑步、羽毛球......）
+全栈&爬虫&数据分析
 
 ## 我的项目📚
 - [智搜通: 一个基于Vue3、SC、SCA2023、ElasticSearch、RabbitMQ、XXL-JOB、Python爬虫的综合性教务公告检索平台](https://github.com/AZCodingAccount/iSchool)
